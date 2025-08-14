@@ -8,6 +8,7 @@ The primary goal of the model is to minimize the Root Mean Squared Error (RMSE) 
 Folder Structure
 The project follows the recommended folder structure to ensure clarity and reproducibility.
 
+
 project_root/
 |-- Notebooks/
 |   |-- data_preparation.ipynb          # Notebook for data cleaning and preprocessing
@@ -41,7 +42,7 @@ Setup and Installation
 Follow these steps to set up the project environment and run the code.
 
 1. Clone the repository
-git clone <your-repository-url>
+git clone <(https://github.com/shubhamverma0298/water-Waste-Management-project.git)>
 cd <your-repository-name>
 
 
@@ -81,5 +82,6 @@ python src/app.py
 
 
 Open your web browser and navigate to http://127.0.0.1:5000 to see the application.
+
 
 
